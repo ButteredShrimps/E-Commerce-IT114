@@ -2,7 +2,7 @@ const CheckoutView = () => {
   return (
     <div>
       <div className="bg-secondary border-top p-4 text-white mb-3">
-        <h1 className="display-6">Checkout</h1>
+        <h1 className="display-6">CHECKOUT</h1>
       </div>
       <div className="container mb-3">
         <div className="row">
